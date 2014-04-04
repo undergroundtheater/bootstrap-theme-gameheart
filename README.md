@@ -1,3 +1,7 @@
+# About this theme
+
+Theme uses Themestrap as a base.  The following is from the original README.md:
+
 # Themestrap
 
 **Themestrap** is a simple starter kit for constructing Twitter Bootstrap 3+ themes. It provides the skeleton
